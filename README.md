@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @royalfire55555
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Java, Lua, JavaScript, HTML, CSS
+- 🌱 I’m currently learning Python, Java, C#, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on AI
 
 <!---
